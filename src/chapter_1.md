@@ -9,3 +9,13 @@ int main(void) {
   return 0;
 }
 ```
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main(void) {
+  cout << "Hello World" << endl;
+  return 0;
+}
+```
