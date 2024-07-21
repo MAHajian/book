@@ -1,11 +1,11 @@
 [book]
-authors = ["نام شما"]
+authors = ["محمدامین حاجیان"]
 language = "Fa"
 multilingual = false
 src = "src"
-title = "نام کتاب"
+title = "The C/C++ Programming"
 text-direction = "rtl"
-description = "موضوع کتاب یا شرحی بر کتاب"
+description = "C/C++ Programming"
 
 [preprocessor]
 
