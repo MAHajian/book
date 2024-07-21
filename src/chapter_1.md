@@ -9,7 +9,7 @@ int main(void) {
   return 0;
 }
 ```
-```C++
+```Cpp
 #include <iostream>
 
 using namespace std;
