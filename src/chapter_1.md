@@ -1,6 +1,11 @@
 # متن تستی
 
 این یک کد تستی است
-```bash
-echo hello world!
+```C
+#include <stdio.h>
+
+int main(void) {
+  puts("Hello World");
+  return 0;
+}
 ```
